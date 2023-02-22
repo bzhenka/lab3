@@ -9,6 +9,6 @@ public class Siniglazka extends Human {
     }
     @Override
     public void cameOut(){
-        System.out.println("Синиглазка вышла из комнаты");
+        System.out.println("Синуглазка вышла из комнаты");
     }
 }
