@@ -5,7 +5,7 @@ import lab3.abstracts.Thing;
 public class Plaster extends Thing {
 
     public Plaster(String coloring) {
-        super("пластерь");
+        super("пластырь");
         if (coloring != null) {
             setProperty(coloring);
         }

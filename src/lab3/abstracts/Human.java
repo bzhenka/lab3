@@ -83,7 +83,7 @@ public abstract class Human implements GoInterface, ThinkInterface {
         int x = random.nextInt(2);{
             switch (x){
                 case 0 ->  Desktop.getDesktop().browse(new URI("https://www.meme-arsenal.com/memes/dec834814892e9d83dd9d9690c825cb9.jpg"));
-                case 1 -> System.out.println(resource );
+                case 1 -> System.out.println(resource + "развита на 36%");
             }
         }
 
